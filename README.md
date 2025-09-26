@@ -1,4 +1,3 @@
-# tetris_adaptatif_120fps.py
 # Tetris Tkinter - 120 FPS + plateau large
 
 import tkinter as tk
